@@ -1,0 +1,40 @@
+[
+  {
+    "explanation": [
+      "A record of what notifications you have signed up to receive"
+    ]
+  },
+  {
+    "created_at": "2021-01-16 16:42:38 UTC",
+    "updated_at": "2021-01-16 16:42:38 UTC",
+    "user_name": "Salvador Guzman",
+    "user_mention_notification": "OFF",
+    "giveaway_for_author_follow_book_notification": "OFF",
+    "friend_shared_reading_notes_notification": "OFF",
+    "engagement_engine_notification": "InApp+Push",
+    "like_notification": "InApp+Push",
+    "message_notification": "InApp+Push",
+    "friend_notification": "InApp+Push",
+    "follower_notification": "InApp+Push",
+    "group_invite_notification": "InApp+Push",
+    "event_notification": "InApp+Push",
+    "trivia_notification": "InApp+Push",
+    "list_notification": "InApp+Push",
+    "poll_notification": "InApp+Push",
+    "review_recommendation_notification": "InApp+Push",
+    "recommend_me_notification": "InApp+Push",
+    "review_comment_notification": "OFF",
+    "profile_comment_notification": "OFF",
+    "list_like_notification": "OFF",
+    "list_comment_notification": "OFF",
+    "recommendation_comment_notification": "OFF",
+    "poll_comment_notification": "OFF",
+    "question_comment_notification": "OFF",
+    "user_status_comment_notification": "OFF",
+    "follow_reviews_default": "OFF",
+    "qa_answer_comment_notification": "OFF",
+    "qa_like_notification": "OFF",
+    "giveaway_with_shelved_book_notification": "OFF",
+    "friend_comment_notification": "OFF"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "explanation": [
+      "Your request to become friends with another user on Goodreads"
+    ]
+  },
+  {
+    "message": "(not provided)",
+    "created_at": "2020-10-12 08:55:33 UTC",
+    "updated_at": "2020-10-12 08:55:33 UTC",
+    "from_user": "Gomery Kimber",
+    "to_user": "Salvador Guzman"
+  },
+  {
+    "message": "(not provided)",
+    "created_at": "2020-10-27 05:56:35 UTC",
+    "updated_at": "2020-10-28 05:38:43 UTC",
+    "from_user": "other user",
+    "to_user": "Salvador Guzman"
+  }
+]

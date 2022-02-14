@@ -1,0 +1,70 @@
+[
+  {
+    "explanation": [
+      "Record of books recommended to you based on the book(s) your friends have read."
+    ]
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "Super Sad True Love Story",
+    "book_average_rating": 3.45,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "Lethal White (Cormoran Strike, #4)",
+    "book_average_rating": 4.22,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "Fun with Problems",
+    "book_average_rating": 3.27,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "The Complete Works",
+    "book_average_rating": 4.47,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy and Human Nature",
+    "book_average_rating": 4.49,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "The Dark Secret (Wings of Fire Graphic Novel #4)",
+    "book_average_rating": 4.55,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "The Environmentalist's Dilemma: Promise and Peril in an Age of Climate Crisis",
+    "book_average_rating": 4.16,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "Sparring Partners",
+    "book_average_rating": 5.0,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  },
+  {
+    "user": "Salvador Guzman",
+    "book": "The Day the World Stops Shopping: How Ending Consumerism Saves the Environment and Ourselves",
+    "book_average_rating": 4.28,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  }
+]

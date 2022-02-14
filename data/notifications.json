@@ -1,0 +1,205 @@
+[
+  {
+    "explanation": [
+      "Record of your notifications and notification settings"
+    ]
+  },
+  {
+    "notification_group_items": [
+      {
+        "type": "ChoiceAwardsResultsAnnouncement",
+        "subject": "Announcing the winners of the 2020 Goodreads Choice Awards!",
+        "created_at": "2020-12-11T14:42:56.343Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "FriendshipAccepted",
+        "subject": "(not provided)",
+        "created_at": "2018-08-20T14:39:28.869Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChallengeLaunch",
+        "subject": "2021 Reading Challenge",
+        "created_at": "2021-01-15T08:12:38.909Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ReadingNotesSharePrompt",
+        "subject": "Salvador’s Kindle Notes & Highlights for Law 101: Everything You Need to Know About American Law",
+        "created_at": "2020-12-31T11:19:39.887Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "FriendshipAccepted",
+        "subject": "Salvador Guzman",
+        "created_at": "2020-11-06T21:08:25.767Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "(not provided)",
+        "created_at": "2022-02-13T10:18:27.812Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChallengeLaunch",
+        "subject": "2019 Reading Challenge",
+        "created_at": "2019-01-14T23:04:25.931Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChoiceAwardsResultsAnnouncement",
+        "subject": "Announcing the winners of the 2017 Goodreads Choice Awards!",
+        "created_at": "2017-12-06T20:03:38.248Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "(not provided)",
+        "created_at": "2017-09-01T21:59:39.131Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChoiceAwardsFinalRoundAnnouncement",
+        "subject": "Last chance to vote in the 2019 Goodreads Choice Awards!",
+        "created_at": "2019-11-29T16:11:55.880Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChoiceAwardsResultsAnnouncement",
+        "subject": "Announcing the winners of the 2019 Goodreads Choice Awards!",
+        "created_at": "2019-12-13T17:27:35.709Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChoiceAwardsResultsAnnouncement",
+        "subject": "Announcing the winners of the 2021 Goodreads Choice Awards!",
+        "created_at": "2021-12-11T15:09:49.309Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChallengeLaunch",
+        "subject": "2018 Reading Challenge",
+        "created_at": "2018-01-31T23:50:04.288Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChoiceAwardsFinalRoundAnnouncement",
+        "subject": "Last chance to vote in the 2021 Goodreads Choice Awards!",
+        "created_at": "2021-12-03T14:53:43.643Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "Like_BookStatusReading",
+        "subject": "Read status for book Thinking, Fast and Slow",
+        "created_at": "2019-06-13T17:25:30.794Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChoiceAwardsFinalRoundAnnouncement",
+        "subject": "Last chance to vote in the 2017 Goodreads Choice Awards!",
+        "created_at": "2017-11-23T11:37:31.181Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChallengeLaunch",
+        "subject": "2020 Reading Challenge",
+        "created_at": "2020-01-15T08:51:28.906Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "ChoiceAwardsFinalRoundAnnouncement",
+        "subject": "Last chance to vote in the 2020 Goodreads Choice Awards!",
+        "created_at": "2020-11-25T15:30:49.733Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "YYIBEndOfYearSummary",
+        "subject": "Otis Chandler's Year in Books 2019",
+        "created_at": "2019-12-21T04:33:52.938Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "ISH sent you a friend request.",
+        "created_at": "2020-10-27T05:56:37.250Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "Like_ReadingProgress",
+        "subject": "User status for book Narrative of the Life of Frederick Douglass",
+        "created_at": "2021-09-28T22:41:12.987Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Salvador Guzman"
+      },
+      {
+        "type": "Challenge_ReEngage",
+        "subject": "2017 Reading Challenge",
+        "created_at": "2017-03-26T16:07:43.982Z",
+        "size": 1,
+        "destination": "goodreads-www",
+        "user": "Salvador Guzman"
+      }
+    ],
+    "notifications_marked_as_read_single_items": "(not provided)",
+    "notification_items": [
+      {
+        "type": "FriendshipRequested",
+        "created_at": "2022-02-13T10:18:19.619Z",
+        "resource": "(not provided)",
+        "subject": "(not provided)",
+        "user": "Salvador Guzman"
+      }
+    ],
+    "notification_settings_items": "(not provided)",
+    "notifications_marked_as_read_items": [
+      {
+        "user": "Salvador Guzman",
+        "notification_type_set": "goodreads-www",
+        "created_at": "2022-02-13T20:33:30.731Z"
+      }
+    ]
+  }
+]

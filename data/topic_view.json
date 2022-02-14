@@ -1,0 +1,430 @@
+[
+  {
+    "explanation": [
+      "Information about views of each discussion"
+    ]
+  },
+  {
+    "last_viewed_at": "2016-08-13 20:07:24 UTC",
+    "topic_type": "List",
+    "created_at": "2016-08-13 20:07:24 UTC",
+    "updated_at": "2016-08-13 20:07:24 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "True Catholic (Christian) Fiction",
+    "comments_count": 1
+  },
+  {
+    "last_viewed_at": "2017-10-28 06:03:20 UTC",
+    "topic_type": "OwnedBook",
+    "created_at": "2017-10-28 06:03:20 UTC",
+    "updated_at": "2017-10-28 06:03:20 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "You May Ask Yourself: An Introduction to Thinking Like a Sociologist",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2019-02-16 04:09:20 UTC",
+    "topic_type": "List",
+    "created_at": "2019-02-16 04:09:20 UTC",
+    "updated_at": "2019-02-16 04:09:20 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Required Reading in High School",
+    "comments_count": 42
+  },
+  {
+    "last_viewed_at": "2020-08-12 09:26:58 UTC",
+    "topic_type": "List",
+    "created_at": "2019-07-12 17:05:24 UTC",
+    "updated_at": "2020-08-12 09:26:58 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Time Magazine's All-TIME 100 Best Non-Fiction Books",
+    "comments_count": 78
+  },
+  {
+    "last_viewed_at": "2019-07-12 17:13:02 UTC",
+    "topic_type": "List",
+    "created_at": "2019-07-12 17:13:02 UTC",
+    "updated_at": "2019-07-12 17:13:02 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Great Book Club Fiction For Everyone!",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2019-07-13 05:29:33 UTC",
+    "topic_type": "List",
+    "created_at": "2019-07-13 05:29:33 UTC",
+    "updated_at": "2019-07-13 05:29:33 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Best Books About Mathematics",
+    "comments_count": 7
+  },
+  {
+    "last_viewed_at": "2020-04-27 02:37:57 UTC",
+    "topic_type": "List",
+    "created_at": "2020-04-27 02:37:57 UTC",
+    "updated_at": "2020-04-27 02:37:57 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Forbidden books (now often considered classics)",
+    "comments_count": 15
+  },
+  {
+    "last_viewed_at": "2020-07-18 22:20:05 UTC",
+    "topic_type": "List",
+    "created_at": "2020-07-18 22:20:05 UTC",
+    "updated_at": "2020-07-18 22:20:05 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "/pol/ recommended reading",
+    "comments_count": 2
+  },
+  {
+    "last_viewed_at": "2020-07-28 22:03:45 UTC",
+    "topic_type": "Blog",
+    "created_at": "2020-07-28 22:03:45 UTC",
+    "updated_at": "2020-07-28 22:03:45 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "6 Great Books Hitting Shelves This Week",
+    "comments_count": 6
+  },
+  {
+    "last_viewed_at": "2020-09-07 05:26:04 UTC",
+    "topic_type": "List",
+    "created_at": "2020-09-07 05:26:04 UTC",
+    "updated_at": "2020-09-07 05:26:04 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "0L - Books to Read Before Law School",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-09-07 05:26:04 UTC",
+    "topic_type": "List",
+    "created_at": "2020-09-07 05:26:04 UTC",
+    "updated_at": "2020-09-07 05:26:04 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "BEST BOOKS FOR LAW STUDENTS",
+    "comments_count": 3
+  },
+  {
+    "last_viewed_at": "2020-09-09 01:55:24 UTC",
+    "topic_type": "AuthorBlogPost",
+    "created_at": "2020-09-09 01:55:24 UTC",
+    "updated_at": "2020-09-09 01:55:24 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Emerging From Hyperspace",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-09-09 17:57:27 UTC",
+    "topic_type": "AuthorBlogPost",
+    "created_at": "2020-09-09 17:57:27 UTC",
+    "updated_at": "2020-09-09 17:57:27 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Anime: A History",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-09-16 15:05:05 UTC",
+    "topic_type": "Blog",
+    "created_at": "2020-09-16 15:05:05 UTC",
+    "updated_at": "2020-09-16 15:05:05 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "52 New Books by Hispanic and Latinx Authors to Read Now",
+    "comments_count": 33
+  },
+  {
+    "last_viewed_at": "2020-09-19 17:25:56 UTC",
+    "topic_type": "AuthorBlogPost",
+    "created_at": "2020-09-19 17:25:56 UTC",
+    "updated_at": "2020-09-19 17:25:56 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Politics Podcast: Our 2020 Senate Forecast Is Live!",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-09-20 13:59:34 UTC",
+    "topic_type": "List",
+    "created_at": "2020-09-20 13:59:34 UTC",
+    "updated_at": "2020-09-20 13:59:34 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Scoops Hottest Lockdown Reads",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-09-21 11:56:55 UTC",
+    "topic_type": "AuthorBlogPost",
+    "created_at": "2020-09-21 11:56:55 UTC",
+    "updated_at": "2020-09-21 11:56:55 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Colin Flaherty podcast returns today! hooray!",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-09-23 09:03:25 UTC",
+    "topic_type": "Blog",
+    "created_at": "2020-09-23 09:03:25 UTC",
+    "updated_at": "2020-09-23 09:03:25 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "9 Books that Goodreads Editors Highly Recommend",
+    "comments_count": 4
+  },
+  {
+    "last_viewed_at": "2020-09-24 19:38:24 UTC",
+    "topic_type": "List",
+    "created_at": "2020-09-24 19:38:24 UTC",
+    "updated_at": "2020-09-24 19:38:24 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Cundill History Prize 2020 Longlist ",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-09-24 19:38:25 UTC",
+    "topic_type": "List",
+    "created_at": "2020-09-24 19:38:25 UTC",
+    "updated_at": "2020-09-24 19:38:25 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "History Published in Year: 2019",
+    "comments_count": 7
+  },
+  {
+    "last_viewed_at": "2020-09-25 07:07:04 UTC",
+    "topic_type": "List",
+    "created_at": "2020-09-25 07:07:04 UTC",
+    "updated_at": "2020-09-25 07:07:04 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Most Engaging Scientific Nonfiction",
+    "comments_count": 6
+  },
+  {
+    "last_viewed_at": "2020-09-27 17:47:13 UTC",
+    "topic_type": "Review",
+    "created_at": "2020-09-27 17:47:13 UTC",
+    "updated_at": "2020-09-27 17:47:13 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador Guzman's review of The Selfish Gene",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2020-10-19 01:51:01 UTC",
+    "topic_type": "List",
+    "created_at": "2020-10-19 01:51:01 UTC",
+    "updated_at": "2020-10-19 01:51:01 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Best Books 2020",
+    "comments_count": 5
+  },
+  {
+    "last_viewed_at": "2020-10-19 01:51:02 UTC",
+    "topic_type": "List",
+    "created_at": "2020-10-19 01:51:02 UTC",
+    "updated_at": "2020-10-19 01:51:02 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Kirkus Reviews Starred Nonfiction 2020",
+    "comments_count": 1
+  },
+  {
+    "last_viewed_at": "2020-10-26 20:14:20 UTC",
+    "topic_type": "List",
+    "created_at": "2020-10-26 20:14:20 UTC",
+    "updated_at": "2020-10-26 20:14:20 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Books that Exceeded your Expectations",
+    "comments_count": 36
+  },
+  {
+    "last_viewed_at": "2020-10-28 12:04:14 UTC",
+    "topic_type": "Blog",
+    "created_at": "2020-10-28 12:04:14 UTC",
+    "updated_at": "2020-10-28 12:04:14 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Bill Gates' Top Five Holiday Book Picks  ",
+    "comments_count": 232
+  },
+  {
+    "last_viewed_at": "2020-10-30 22:47:08 UTC",
+    "topic_type": "UserChallenge",
+    "created_at": "2020-10-30 22:47:08 UTC",
+    "updated_at": "2020-10-30 22:47:08 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador’s challenge",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-03-11 18:14:31 UTC",
+    "topic_type": "UserChallenge",
+    "created_at": "2021-03-11 18:14:31 UTC",
+    "updated_at": "2021-03-11 18:14:31 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador’s challenge",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-03-11 18:14:52 UTC",
+    "topic_type": "UserChallenge",
+    "created_at": "2021-03-11 18:14:52 UTC",
+    "updated_at": "2021-03-11 18:14:52 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador’s challenge",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-03-25 13:24:14 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-03-25 13:24:14 UTC",
+    "updated_at": "2021-03-25 13:24:14 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador Guzman's review of The Accidental Superpower: The Next Generation of American Preeminence and the Coming Global Disorder",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-03-31 03:11:09 UTC",
+    "topic_type": "List",
+    "created_at": "2021-03-31 03:11:09 UTC",
+    "updated_at": "2021-03-31 03:11:09 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Books that were titillating, sexual, and downright disturbing",
+    "comments_count": 1
+  },
+  {
+    "last_viewed_at": "2021-04-03 07:57:26 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-04-03 07:57:26 UTC",
+    "updated_at": "2021-04-03 07:57:26 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador Guzman's review of Opening Skinner's Box: Great Psychological Experiments of the Twentieth Century",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-04-04 12:37:40 UTC",
+    "topic_type": "List",
+    "created_at": "2021-04-04 12:37:40 UTC",
+    "updated_at": "2021-04-04 12:37:40 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Books Banned on Amazon",
+    "comments_count": 3
+  },
+  {
+    "last_viewed_at": "2021-04-04 12:38:38 UTC",
+    "topic_type": "List",
+    "created_at": "2021-04-04 12:38:38 UTC",
+    "updated_at": "2021-04-04 12:38:38 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Transathon",
+    "comments_count": 3
+  },
+  {
+    "last_viewed_at": "2021-04-04 12:41:30 UTC",
+    "topic_type": "List",
+    "created_at": "2021-04-04 12:41:30 UTC",
+    "updated_at": "2021-04-04 12:41:30 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Booklist for Trans Teens",
+    "comments_count": 30
+  },
+  {
+    "last_viewed_at": "2021-04-04 12:43:18 UTC",
+    "topic_type": "List",
+    "created_at": "2021-04-04 12:43:18 UTC",
+    "updated_at": "2021-04-04 12:43:18 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "transgender non fiction",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-07-30 02:37:08 UTC",
+    "topic_type": "Blog",
+    "created_at": "2021-07-30 02:37:08 UTC",
+    "updated_at": "2021-07-30 02:37:08 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "The 40 Most Popular Histories & Biographies...in Recent History",
+    "comments_count": 9
+  },
+  {
+    "last_viewed_at": "2021-08-08 03:15:56 UTC",
+    "topic_type": "Blog",
+    "created_at": "2021-08-08 03:15:56 UTC",
+    "updated_at": "2021-08-08 03:15:56 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "69 New and Upcoming Debut Novels to Discover ",
+    "comments_count": 57
+  },
+  {
+    "last_viewed_at": "2021-08-29 14:33:09 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-08-29 14:33:09 UTC",
+    "updated_at": "2021-08-29 14:33:09 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador Guzman's review of If I Ran The Zoo I'd Open Each Cage: An Easy To Read Beginner Book",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-09-02 15:27:17 UTC",
+    "topic_type": "UserStatus",
+    "created_at": "2021-09-02 15:27:17 UTC",
+    "updated_at": "2021-09-02 15:27:17 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "User status for book The Man Who Would Be Queen: The Science of Gender-Bending and Transsexualism",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-09-26 23:53:47 UTC",
+    "topic_type": "List",
+    "created_at": "2021-09-26 23:53:47 UTC",
+    "updated_at": "2021-09-26 23:53:47 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "The Feminist Orchestra Potential Reading List",
+    "comments_count": 15
+  },
+  {
+    "last_viewed_at": "2021-10-04 23:34:55 UTC",
+    "topic_type": "OwnedBook",
+    "created_at": "2021-10-04 23:34:55 UTC",
+    "updated_at": "2021-10-04 23:34:55 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Catch-22",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-10-05 00:57:18 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-10-05 00:57:18 UTC",
+    "updated_at": "2021-10-05 00:57:18 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Salvador Guzman's review of Catch-22",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-12-18 18:48:01 UTC",
+    "topic_type": "Blog",
+    "created_at": "2021-12-18 18:48:01 UTC",
+    "updated_at": "2021-12-18 18:48:01 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "The 2021 Pride Reading List: 75 New Books to Read Now ",
+    "comments_count": 58
+  },
+  {
+    "last_viewed_at": "2021-12-23 05:15:04 UTC",
+    "topic_type": "Blog",
+    "created_at": "2021-12-23 05:15:04 UTC",
+    "updated_at": "2021-12-23 05:15:04 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "The Pandemic Arrives on Book Shelves with These New Releases",
+    "comments_count": 10
+  },
+  {
+    "last_viewed_at": "2021-12-31 01:25:59 UTC",
+    "topic_type": "Blog",
+    "created_at": "2021-12-27 17:46:20 UTC",
+    "updated_at": "2021-12-31 01:25:59 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Goodreads Members' Most Anticipated Books of 2022",
+    "comments_count": 277
+  },
+  {
+    "last_viewed_at": "2022-01-16 23:48:53 UTC",
+    "topic_type": "Review",
+    "created_at": "2022-01-16 23:48:53 UTC",
+    "updated_at": "2022-01-16 23:48:53 UTC",
+    "user": "Salvador Guzman",
+    "topic_title": "Emily's review of Life of Christ",
+    "comments_count": 0
+  }
+]

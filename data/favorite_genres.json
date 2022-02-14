@@ -1,0 +1,15 @@
+[
+  {
+    "explanation": [
+      "Genres you have marked as your favorite"
+    ]
+  },
+  {
+    "created_at": "2016-08-13 20:05:31 UTC",
+    "updated_at": "2021-09-29 07:50:30 UTC",
+    "user": "Salvador Guzman",
+    "genres": "Art,Biography,Business,Classics,Ebooks,Fantasy,History,Memoir,Mystery,Non-fiction,Philosophy,Politics,Psychology,Religion,Science,Science fiction,Young-adult",
+    "additional_genres": "finance,economics,money,law,china,latin-american-history,american-history,financial-management,accounting,computer-science",
+    "genres_automatically_determined": "Yes"
+  }
+]

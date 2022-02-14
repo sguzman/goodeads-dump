@@ -1,0 +1,23 @@
+[
+    {
+        "explanation": [
+            "This tracks the dates when  the user used  Goodreads features in KindleApps [Fire, e-reader, iOS]"
+        ]
+    },
+    {
+        "login_date": "2020-04-12",
+        "platform": "IOS",
+        "first_activity_timestamp": "2020-04-12T12:59:30",
+        "last_activity_timestamp": "2020-04-12T12:59:30",
+        "last_updated": "2020-11-02",
+        "user_name": "Salvador Guzman"
+    },
+    {
+        "login_date": "2021-02-28",
+        "platform": "IOS",
+        "first_activity_timestamp": "2021-02-28T06:58:14.905000",
+        "last_activity_timestamp": "2021-02-28T06:58:14.905000",
+        "last_updated": "2022-02-02",
+        "user_name": "Salvador Guzman"
+    }
+]
